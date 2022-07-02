@@ -1,0 +1,111 @@
+
+body{
+    background-image: url(1919841.jpg);
+    margin: 0;  
+}
+
+
+#table1, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tableResult{
+    background-color: aliceblue;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header{
+    text-align: center;
+}
+
+
+#content{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    align-content: center;
+   
+}
+
+#left {
+    opacity:0.85;
+    text-align: center;
+    float: left;
+    width: 20%;
+    height: 1000px;
+    border: 1px solid black;
+    margin-left: 0.5%;
+    background-color: #F6ECF5;
+    border-radius: 30px;
+}
+#left:hover{
+    opacity:1;
+}
+
+#main{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+    height:800px;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: #D5D6EA;
+}
+#right{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 24%;
+    height: 800px;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: #D5D6EA;
+}
+
+#kaxa{
+    
+    border: 2px solid black;
+    border-radius: 30px;
+
+}
+
+#tit{
+    text-align: center;
+    background-color:azure;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-radius: 30px;
+
+}
+
+#mgelo{
+    max-width: 90%;
+    max-height: 100%;
+    border-radius: 30px;
+    
+}
+
+#beqa{
+    max-width: 90%;
+    max-height: 90%;
+    border-radius: 30px;
+}
+
+#tango{
+    max-width: 90%;
+    max-height: 100%;
+    border-radius: 30px;
+}
+
+
+
+
